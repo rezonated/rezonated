@@ -1,12 +1,19 @@
-Hello, welcome!
+# Hi there 
 
-My name is Vanan, I am a game developer primarily using Unreal and Unity Engine.
+I'm Vanan Andreas - a game programmer.
 
-- I'm a [Certified Professional Unity Developer](https://www.credly.com/badges/d65e9633-4cda-47b1-82b4-0b62dcc450c8)
+I work on quite a handful of things; gameplay systems, multiplayer replication, tools, and backend services. 
 
-- Check out my [OpenAI wrapper plugin for Unreal Engine!](https://github.com/rezonated/openai-unreal)
+Mainly using Unreal Engine and Unity.
 
+Thanks for visiting - see you around! 👋
 
-Have a look at this cool snake, see you!
+Enjoy the snakes and the current scrobble~
+
+---
 
 ![snake-commits](github-contribution-grid-snake.svg)
+
+---
+
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=crewsackan)](https://www.last.fm/user/crewsackan)
